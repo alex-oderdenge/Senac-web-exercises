@@ -1,0 +1,27 @@
+Titulo co curso: Programador Web
+Eixo tecnológico: Informação e Comunicação
+Segmento: Tecnologia da informação
+Tipo de curso: qualificação profissional
+Carga horária: 240h (60 dias de aula)
+Código DN: 2687
+
+perfil do curso
+O profissional programador web elabora projetos e testes ao longo do desenvolvimento e permite o acesso a banco de dados por meio de linguagens de programação, segundo padrões internacionais. 
+Este profissional trabalha no desenvolvimento de sites institucionais, blogs, fóruns, lojas virtuais e diversos sistemas e aplicações voltadas para o ambiente de internet e intranet, conforme políticas de segurança da informação e com respeito à propriedade intelectual.
+Pode atuar em serviços autônomos, temporários ou contrato efetivo em organizações públicas e privadas nos mais diversos setores.
+O profisssional qualificado pelo Senac tem como Marcas Formativas: Domínio técnico-científico, visão crítica, atitude empreendedora, sustentável e colaborativa, com foco em resultados.
+
+Unidades curriculares
+UC1 - Elaborar projetos de aplicações para web 36h
+UC2 - Estruturar aplicações front-end para web 48h
+UC3 - Desenvolver aplicações back-end para web 96h
+UC4 Publicar aplicações web 36h
+UC5 projeto integrador Programação web (24h)
+Total: 240h
+
+Frequência mínima de 75% em cada unidade curricular.
+
+Cronograma:
+2 feira nelma uc1
+4 feira douglas estruturar aplicações front web wireframes prototipos
+6 feira nelma estruturar aplicacoes front end para web

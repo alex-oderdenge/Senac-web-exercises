@@ -1,0 +1,67 @@
+O que pode ser feito com um website?
+Site institucional
+portal de noticias
+loja virtual (ecommerce)
+plataforma de venda de cursos online
+portal de classificados
+landing page
+blog
+Sistema gestão integrado web
+Sistema de Relacionamento com Cliente (CRM)
+Sistema de Gestão integrado web (modelo SaaS)
+Sistemas de gestão de conteúdo (CMS) (wordpress, Joomla, Magento e Drupal)
+
+As aplicações web de hoje são responsivas, ou seja, se adaptam a qualquer tamanho de dispositivo
+-tablet
+-celular
+-notebook
+-smart tv
+		
+Alguns conceitos de programação para web qeu são "mobile first". Porém depende do perfil do público, e para quem se destina a aplicação.
+
+
+
+basicamente as aplicações web são constituidas de tres partes:
+
+camada visual
+camada de funcionalidades
+banco de dados
+
+O que é back-end
+Trabalha a camada 2 de funcionalidades, que fica por trás da aplicação e qeu se comunica com o banco de dados
+
+qual a linguagem de programação usada para a web? existem vários tipos
+
+java para web
+asp.net
+php
+javascript
+entre outras
+
+vamos usar php no nosso curso
+
+vamosutilizar php
+
+um acronimo recursivo para php: hypertext preprocessor) é uma linguagem de script open source de uso geral, muito utilizada, e especialmente adequada para o desenvolvimento web e pode ser embutida dentro do html
+
+no nosso curso como um todo, vamos trabalhar a combinação mais comum (php, mysql, html, css e javascript)
+
+qual o ambiente de desenvolvimento (editores de código fonte)
+-bloco de notas
+notepad++
+sublima text
+visual studio code (vscode)
+
+frameworks de desenvolvimento
+laravel
+code igniter
+
+
+
+lógica de programação: Nada mais é do que um conjunto de instruções (tarefas) que são executadas pelo computador e, somadas, resolvem um determinado problema ou realizam determinado tipo de serviço
+para essas tarefas individuais é dado o nome de algoritmo
+
+condições basicas de algoritmo
+instruções detalhadas
+sequenciais
+inicio, meio e fim
